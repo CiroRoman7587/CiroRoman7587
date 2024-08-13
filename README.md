@@ -1,7 +1,8 @@
 # Aprendizaje Automático para la gestión de datos masivos.
 
 
-![](https://media.tenor.com/1SQbcZw13UQAAAAi/storage-in-big-data-market.gif)
+![](https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif)
+![](https://media.licdn.com/dms/image/D4D12AQG72_g7egFI-A/article-inline_image-shrink_400_744/0/1677011830523?e=1727913600&v=beta&t=f56j8IMiANainlCiM5VyvebR6BR_lgzkXarE4JJeCBE)
 
 Definición y Conceptos Fundamentales
 Big Data se refiere a conjuntos de datos extremadamente grandes y complejos que no pueden ser gestionados, procesados o analizados con herramientas de bases de datos tradicionales. Se caracteriza por las "5 V's".
